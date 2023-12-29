@@ -57,5 +57,5 @@
 ![ML 20](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/be0af4a7-88ad-4d51-85e2-75ef0af57c0e)
 
 ## Building a Predictive System
-![ML 21](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/9321477c-c2d9-42c8-aba6-ee5eba16501a)
-![ML 22](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/658ba7a6-fb85-4ab0-a0cb-b395235fdaec)
+![ML 222](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/e78d0a42-6043-417c-a587-a6716745de49)
+![ML 222A](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/5553a126-a3c6-4527-926a-4b430c8fa0c7)
