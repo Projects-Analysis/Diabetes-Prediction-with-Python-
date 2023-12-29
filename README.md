@@ -23,7 +23,7 @@
 ![ML 6](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/81f40b09-0b76-46d2-8095-ac51b2ee65c0)
 * Where 0 = Non-Diabetic and 1 = Diabetic
 
-### Getting to Know the Mean  Values of the Outcome for all the Columns
+### Calculating the Mean  Values of the Outcome for all the Columns
 ![ML7](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/66f95cc3-55de-45b2-8d1f-33a7a015a16a)
 
 ### Separating the Data and Labels into X and Y 
