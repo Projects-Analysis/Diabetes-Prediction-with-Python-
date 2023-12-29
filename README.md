@@ -1,2 +1,1 @@
-# Diabetes-Prediction-with-Python-
-### Diabetes Prediction with Python (Machine Learning Project)
+# Diabetes-Prediction-with-Python (Machine Learning Project)
