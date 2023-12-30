@@ -39,6 +39,18 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 * Where 0 = Non-Diabetic and 1 = Diabetic
 ![ML 222B](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/3e618656-2b84-47d3-a1a9-e6930bf7004a)
 ![ML 222C](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/d19feae2-7d76-41dd-b031-e1f62f6f973e)
+### Model Performance 
+![ML41](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/2cedaea4-b4e4-4063-aa85-f2b76a08f279)
+![ML42](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/9ff3d8c9-9408-45d6-9a6f-1f22f827e166)
+![ML43](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/df27468b-bdb2-4aa7-9c08-be545c5a8b6b)
+![ML44](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/15e1ba80-a972-44e0-88ca-f19458ac928e)
+![ML45](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/cdcc1e77-f888-48df-b40d-c43e360c1926)
+![ML46](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/ba1f5597-1f7f-4c35-961b-ff7f8d746776)
+![ML47](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/660efcb4-73b6-4218-a470-aba7789c1492)
+![ML48](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/a68c556d-6dc3-4f83-b13e-28e5931ea3ff)
+![ML49](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/2491f185-2dfb-46cf-8850-2de1ea5ffa33)
+![ML49A](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/dc75d5be-a3ea-4881-a8f6-476d669487cc)
+
 
 
 ### Calculating the Mean  Values of the Outcome for all the Columns
