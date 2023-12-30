@@ -7,7 +7,8 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 
  
   ### Importing Python Libraries
-  ![ML 1](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/e5495a8c-4ef3-4eca-b08a-ec5506df1b5a)
+  ![ML 222D](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/8d67fd7b-6b8d-4cb4-9590-b544f7c5ae74)
+
 
 ## Data Collection and Analysis
 
@@ -27,6 +28,9 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 
 ![ML 6](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/81f40b09-0b76-46d2-8095-ac51b2ee65c0)
 * Where 0 = Non-Diabetic and 1 = Diabetic
+![ML 222B](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/3e618656-2b84-47d3-a1a9-e6930bf7004a)
+![ML 222C](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/d19feae2-7d76-41dd-b031-e1f62f6f973e)
+
 
 ### Calculating the Mean  Values of the Outcome for all the Columns
 ![ML7](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/66f95cc3-55de-45b2-8d1f-33a7a015a16a)
