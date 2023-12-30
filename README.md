@@ -25,6 +25,10 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 ### Getting to Know the Number of Rows and Columns in the Dataset 
 ![ML 4](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/718fade8-665b-4a06-b742-f10640ed2f1f)
 
+### Checking if Duplicates Exist in the Dataset
+![ML 222F](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/977ef2f1-979a-4f1a-a745-706e640fb8bd)
+
+
 ### Statistical Analysis of the Datasset
 ![ML5](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/1337ffce-a2ca-4242-9784-1b42fab22ab3)
 
