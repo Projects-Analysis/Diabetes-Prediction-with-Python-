@@ -86,6 +86,10 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 ### Checking the Accuracy Score on the Test Data
 ![ML 20](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/be0af4a7-88ad-4d51-85e2-75ef0af57c0e)
 
-## Building a Predictive System ( Testing on a Sample Data )
+## Building a Predictive System ( Testing on a Sample Data ) 
+## Sample 1 
 ![ML 222](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/e78d0a42-6043-417c-a587-a6716745de49)
 ![ML 222A](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/5553a126-a3c6-4527-926a-4b430c8fa0c7)
+
+## Sample 2 
+![ml49B](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/55140ff5-b0b0-4302-b728-bea7aaf6fb35)
