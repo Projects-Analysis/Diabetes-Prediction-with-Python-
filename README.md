@@ -39,7 +39,7 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 * Where 0 = Non-Diabetic and 1 = Diabetic
 ![ML 222B](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/3e618656-2b84-47d3-a1a9-e6930bf7004a)
 ![ML 222C](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/d19feae2-7d76-41dd-b031-e1f62f6f973e)
-### Model Performance 
+### Model Performance by Columns
 ![ML41](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/2cedaea4-b4e4-4063-aa85-f2b76a08f279)
 ![ML42](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/9ff3d8c9-9408-45d6-9a6f-1f22f827e166)
 ![ML43](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/df27468b-bdb2-4aa7-9c08-be545c5a8b6b)
