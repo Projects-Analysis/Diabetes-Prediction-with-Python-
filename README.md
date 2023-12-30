@@ -27,6 +27,7 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 
 ### Checking if Duplicates Exist in the Dataset
 ![ML 222F](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/977ef2f1-979a-4f1a-a745-706e640fb8bd)
+![ML 222G](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/281d6408-f71d-4d33-b820-8ca81871baf4)
 
 
 ### Statistical Analysis of the Datasset
