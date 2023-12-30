@@ -18,6 +18,10 @@ Diabetes, a chronic condition affecting millions worldwide can silently wreak ha
 ### Checking the First 5 Rows of the Dataset
 ![ML 3](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/d184eba6-8803-4a9f-9ef5-50aa4c16c7ff)
 
+### Checking for Null Values in the Dataset
+![ML 222E](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/d55fee89-d0cf-4ad1-8774-8ff56df08ddb)
+
+
 ### Getting to Know the Number of Rows and Columns in the Dataset 
 ![ML 4](https://github.com/Projects-Analysis/Diabetes-Prediction-with-Python-/assets/149543175/718fade8-665b-4a06-b742-f10640ed2f1f)
 
